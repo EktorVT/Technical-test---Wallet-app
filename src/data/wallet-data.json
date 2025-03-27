@@ -1,0 +1,112 @@
+{
+  "balance": 777.3,
+  "maxLimit": 1500.0,
+  "points": "456k",
+  "paymentTitle": "You're all caught up!",
+  "paymentSubtitle": "You've paid your September balance",
+  "lastPaymentAmount": 350.0,
+  "lastPaymentDate": "August 15",
+  "nextStatementDate": "October 5",
+  "transactions": [
+    {
+      "id": "tx1",
+      "type": "credit",
+      "amount": 42.99,
+      "name": "Starbucks",
+      "description": "Coffee and breakfast",
+      "date": "2024-03-25T08:30:00",
+      "pending": true,
+      "icon": "coffee"
+    },
+    {
+      "id": "tx2",
+      "type": "credit",
+      "amount": 89.75,
+      "name": "Target",
+      "description": "Household supplies",
+      "date": "2024-03-24T14:15:00",
+      "pending": false,
+      "icon": "shopping-cart"
+    },
+    {
+      "id": "tx3",
+      "type": "payment",
+      "amount": 350.0,
+      "name": "Card Payment",
+      "description": "Thank you for your payment",
+      "date": "2024-03-22T10:00:00",
+      "pending": false,
+      "icon": "credit-card"
+    },
+    {
+      "id": "tx4",
+      "type": "credit",
+      "amount": 12.5,
+      "name": "Netflix",
+      "description": "Monthly subscription",
+      "date": "2024-03-20T00:01:00",
+      "pending": false,
+      "icon": "film"
+    },
+    {
+      "id": "tx5",
+      "type": "credit",
+      "amount": 65.3,
+      "name": "Amazon",
+      "description": "Books and electronics",
+      "date": "2024-03-18T16:45:00",
+      "pending": false,
+      "icon": "box"
+    },
+    {
+      "id": "tx6",
+      "type": "credit",
+      "amount": 32.4,
+      "name": "Uber",
+      "description": "Ride to airport",
+      "date": "2024-03-15T07:30:00",
+      "pending": false,
+      "icon": "car"
+    },
+    {
+      "id": "tx7",
+      "type": "credit",
+      "amount": 128.75,
+      "name": "Ikea",
+      "description": "Furniture and home decor",
+      "date": "2024-03-10T13:20:00",
+      "pending": false,
+      "icon": "home"
+    },
+    {
+      "id": "tx8",
+      "type": "credit",
+      "amount": 45.0,
+      "name": "Spotify",
+      "description": "Annual subscription",
+      "date": "2024-03-05T09:15:00",
+      "pending": false,
+      "icon": "music"
+    },
+    {
+      "id": "tx9",
+      "type": "payment",
+      "amount": 200.0,
+      "name": "Card Payment",
+      "description": "Thank you for your payment",
+      "date": "2024-02-28T11:30:00",
+      "pending": false,
+      "icon": "credit-card"
+    },
+    {
+      "id": "tx10",
+      "type": "credit",
+      "amount": 78.5,
+      "name": "Best Buy",
+      "description": "Electronics and accessories",
+      "date": "2024-02-25T15:45:00",
+      "pending": false,
+      "icon": "tv"
+    }
+  ]
+}
